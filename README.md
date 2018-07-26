@@ -1,8 +1,8 @@
-# Mynavi_parse
+# MynaviParse
 MyNaviからデータを取得してくるスクリプト。
 
 ## Requirement
-- Python 3.5.x
+- Python 3.5
 - ChromeDriver
 
 ## Usage
